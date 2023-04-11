@@ -25,6 +25,7 @@ main {
 .pokedex {
   height: 100%;
   width: 100%;
+  padding: 2em;
   max-width: 425px;
 }
 
